@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Venky, a software engineer, now learning AI.
+I'm looking for full time roles in Software and Machine Learning Space.
+I've worked in Computer Vision and MLOps, here are few projects i want to highlight:
+
+1. [Color Constancy](https://github.com/VenkyGitRep/AdvancedPerception-ColorConstancy/tree/ColorConstancy_Final)
+2. [Retail Stock prediction - MLOps](https://github.com/VenkyGitRep/MLOps_Pipeline_Final/tree/main)
+3. [Assistive Writing - GenAI](https://github.com/VenkyGitRep/genai_storyteller)
+
+You can reach me at [venks.mail@gmail.com](mailto:venks.mail@gmail.com)
 
 <!--
 **VenkyGitRep/Venkygitrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
