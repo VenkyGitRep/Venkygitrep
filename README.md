@@ -8,7 +8,7 @@ I've worked in Computer Vision and MLOps, here are few projects i want to highli
 3. [Assistive Writing - GenAI](https://github.com/VenkyGitRep/genai_storyteller)
 
 Reach me at [venks.mail@gmail.com](mailto:venks.mail@gmail.com)
-
+This readme was last updated on 02/23/2025.
 <!--
 **VenkyGitRep/Venkygitrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
